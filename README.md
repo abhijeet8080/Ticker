@@ -1,0 +1,2 @@
+# Ticker
+A practice website
